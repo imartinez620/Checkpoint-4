@@ -15,8 +15,12 @@ process_dictionary = {
 	'function': ('top', 'bottom', 'both')
 }
 
-#Exercise 2: Round your float up
+#Exercise 2: Round your float up.
 milk_float_rounded_up = math.ceil(milk_float)
+
+#Exercise 3: Get the square root of your float.
+milk_float_square_root = math.sqrt(milk_float)
+
 
 
 
