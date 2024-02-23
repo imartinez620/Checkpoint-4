@@ -36,5 +36,8 @@ shooping_list[0] = 'soja_milk'
 #Exercise 8: Sort your list alphabetically.
 shooping_list.sort()
 
+#Exercise 9: Use reassignment to add an element to your tuple.
+recipie_tuple_reassigned = recipie_tuple + ('grill',)
+
 
 
