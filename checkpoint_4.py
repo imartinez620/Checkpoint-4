@@ -30,6 +30,8 @@ my_tuple_second_element = recipie_tuple[1]
 #Exercise 6: Add an element to the end of your list.
 shooping_list.append('salt')
 
+#Exercise 7: Replace the first element in your list.
+shooping_list[0] = 'soja_milk'
 
 
 
