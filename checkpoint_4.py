@@ -27,6 +27,9 @@ my_dictionary_first_element = process_dictionary['temperature']
 #Exercise 5: Select the second element from your tuple.
 my_tuple_second_element = recipie_tuple[1]
 
+#Exercise 6: Add an element to the end of your list.
+shooping_list.append('salt')
+
 
 
 
