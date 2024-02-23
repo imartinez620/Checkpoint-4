@@ -24,6 +24,10 @@ milk_float_square_root = math.sqrt(milk_float)
 #Exercise 4: Select the first element from your dictionary.
 my_dictionary_first_element = process_dictionary['temperature']
 
+#Exercise 5: Select the second element from your tuple.
+my_tuple_second_element = recipie_tuple[1]
+
+
 
 
 
