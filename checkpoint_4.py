@@ -1,4 +1,5 @@
 from decimal import Decimal
+import math
 
 #Exercise 1: Create a list, tuple, float, integer, decimal, and dictionary.
 
@@ -14,6 +15,8 @@ process_dictionary = {
 	'function': ('top', 'bottom', 'both')
 }
 
+#Exercise 2: Round your float up
+milk_float_rounded_up = math.ceil(milk_float)
 
 
 
