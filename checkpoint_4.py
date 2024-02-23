@@ -33,6 +33,8 @@ shooping_list.append('salt')
 #Exercise 7: Replace the first element in your list.
 shooping_list[0] = 'soja_milk'
 
+#Exercise 8: Sort your list alphabetically.
+shooping_list.sort()
 
 
 
