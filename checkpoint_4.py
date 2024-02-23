@@ -21,6 +21,9 @@ milk_float_rounded_up = math.ceil(milk_float)
 #Exercise 3: Get the square root of your float.
 milk_float_square_root = math.sqrt(milk_float)
 
+#Exercise 4: Select the first element from your dictionary.
+my_dictionary_first_element = process_dictionary['temperature']
+
 
 
 
